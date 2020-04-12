@@ -1,6 +1,4 @@
 package com.epam.cdp.junit;
-
-import com.epam.cdp.junit.BasicTestJunit;
 import org.junit.Assert;
 import org.junit.Test;
 

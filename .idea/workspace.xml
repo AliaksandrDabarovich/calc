@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff1b4af0-2917-491d-9485-96d4782db632" name="Default Changelist" comment="" />
+    <list default="true" id="ff1b4af0-2917-491d-9485-96d4782db632" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/BasicTestJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/BasicTestJunit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/PositiveMethodTestWithPositiveValueJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/PositiveMethodTestWithPositiveValueJunit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SummationDoubleTestJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SummationDoubleTestJunit.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aDzPpWttMhNxBW2q9S5hF7EXaa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/calculator-1.0.jar!/" />
@@ -190,5 +196,16 @@
       <updated>1586284930205</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
