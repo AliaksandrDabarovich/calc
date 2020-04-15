@@ -5,10 +5,8 @@ import org.testng.annotations.Test;
 
 public class DivisionLongTest extends BasicTest {
     @Test
-    public void divideLong(){
-        long result;
-        result = calculator.div(8,2);
-        Assert.assertEquals(result,4);
+    public void divideLong() {
+        Assert.assertEquals(calculator.div(8, 2), 4, "Division with long function works wrong");
     }
 
 

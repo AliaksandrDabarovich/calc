@@ -6,8 +6,7 @@ import org.testng.annotations.Test;
 public class MultiplicationLongTest extends BasicTest {
     @Test
     public void multiplicateLong (){
-        long result;
-        result = calculator.mult(4,5);
-        Assert.assertEquals(result,20);
+
+        Assert.assertEquals(calculator.mult(4,5),20, "Multiplication with long function works wrong");
     }
 }

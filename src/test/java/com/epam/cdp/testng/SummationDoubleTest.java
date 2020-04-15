@@ -7,8 +7,7 @@ public class SummationDoubleTest extends BasicTest {
 
     @Test
     public void summarizeDouble(){
-        double result;
-        result = calculator.sum(1.2, 5.4);
-        Assert.assertEquals(result, 5.4+1.2);
+
+        Assert.assertEquals(calculator.sum(1.2, 5.4), 5.4+1.2, "Summation double function works wrong");
     }
 }

@@ -4,26 +4,10 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 public class NegativeMethodTest extends BasicTest {
-    @Test(dataProvider = "valuesNegative")
+    @Test(dataProvider = "values", dataProviderClass = DataProviderForTests.class)
     public void testNegativeValue(long a, boolean expectedValue) {
-        boolean result;
-        result = calculator.isNegative(a);
-        Assert.assertEquals(result, expectedValue);
-    }
 
-    @DataProvider (name = "valuesNegative")
-    public Object[][] valuesForNegative() {
-        return new Object[][]{
-                {
-                        1, false
-                },
-                {
-                        0, false
-                },
-                {
-                        -1, true
-                }
-        };
+        Assert.assertEquals(calculator.isNegative(a), expectedValue, "isNegative function works wrong");
     }
 }
 

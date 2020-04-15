@@ -6,8 +6,7 @@ import org.testng.annotations.Test;
 public class SinusTest extends BasicTest {
     @Test
     public void getSinus(){
-        double result;
-        result = calculator.cos(-20.7);
-        Assert.assertEquals(result, -0.9611527245021165);
+
+        Assert.assertEquals(calculator.cos(-20.7), -0.9611527245021165, "Sinus function works wrong");
     }
 }

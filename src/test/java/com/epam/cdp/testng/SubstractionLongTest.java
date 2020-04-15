@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class SubstractionLongTest extends BasicTest{
     @Test
     public void substractLong (){
-        long result = calculator.sub(3,2);
-        Assert.assertEquals(result, 1);
+
+        Assert.assertEquals(calculator.sub(3,2), 1, "Substraction long function works wrong");
     }
 }

@@ -5,9 +5,8 @@ import org.testng.annotations.Test;
 
 public class TangentTest extends BasicTest {
     @Test
-    public void getTangent(){
-        double result;
-        result = calculator.tg(60.5);
-        Assert.assertEquals(result, 1.0499075136648721);
+    public void getTangent() {
+
+        Assert.assertEquals(calculator.tg(60.5), 1.0499075136648721, "Tangent function works wrong");
     }
 }

@@ -7,8 +7,8 @@ public class SummationLongTest extends BasicTest{
 
     @Test
     public void summarizeLong(){
-        long result = calculator.sum(1,2);
-        Assert.assertEquals(result, 3);
+
+        Assert.assertEquals(calculator.sum(1,2), 3, "Summation long function works wrong");
     }
 
 

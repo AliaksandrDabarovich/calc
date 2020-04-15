@@ -2,10 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1b4af0-2917-491d-9485-96d4782db632" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DataProviderForTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/BasicTestJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/BasicTestJunit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/PositiveMethodTestWithPositiveValueJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/PositiveMethodTestWithPositiveValueJunit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SummationDoubleTestJunit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/junit/SummationDoubleTestJunit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/CosinusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/CosinusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/CotangentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/CotangentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DivisionByZeroDoubleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DivisionByZeroDoubleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DivisionByZeroLongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DivisionByZeroLongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DivisionDoubleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DivisionDoubleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DivisionLongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/DivisionLongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/MultiplicationDoubleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/MultiplicationDoubleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/MultiplicationLongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/MultiplicationLongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/NegativeMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/NegativeMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/PositiveMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/PositiveMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/PowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/PowerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SinusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SinusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SquareRootTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SquareRootTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SubstractionDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SubstractionDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SubstractionLongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SubstractionLongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SummationDoubleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SummationDoubleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SummationLongTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/SummationLongTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/TangentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/cdp/testng/TangentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/junit/BasicTestJunit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/junit/BasicTestJunit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/junit/PositiveMethodTestWithPositiveValueJunit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/junit/PositiveMethodTestWithPositiveValueJunit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/CosinusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/CosinusTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/CotangentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/CotangentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/DivisionByZeroDoubleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/DivisionByZeroDoubleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/DivisionByZeroLongTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/DivisionByZeroLongTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/DivisionDoubleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/DivisionDoubleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/DivisionLongTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/DivisionLongTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/MultiplicationDoubleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/MultiplicationDoubleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/MultiplicationLongTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/MultiplicationLongTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/NegativeMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/NegativeMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/PositiveMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/PositiveMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/PowerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/PowerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SinusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SinusTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SquareRootTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SquareRootTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SubstractionDouble.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SubstractionDouble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SubstractionLongTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SubstractionLongTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SummationDoubleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SummationDoubleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SummationLongTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/SummationLongTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/TangentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/epam/cdp/testng/TangentTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,69 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner">
-    <configuration name="SubstractionLongTestJunit.substractLongJunit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="calc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.epam.cdp.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.junit.SubstractionLongTestJunit" />
-      <option name="METHOD_NAME" value="substractLongJunit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SummationLongTestJunit.summarizeLongJunit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="calc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.epam.cdp.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.junit.SummationLongTestJunit" />
-      <option name="METHOD_NAME" value="summarizeLongJunit" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TangentTestJunit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="calc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.epam.cdp.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.junit.TangentTestJunit" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="calc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.epam.cdp.junit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.epam.cdp.junit" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.junit.TestRunner" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/git/calc/src/resources/testng.xml">
     <configuration name="C:/git/calc/src/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="calc" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/resources/testng.xml" />
@@ -123,16 +99,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DivisionByZeroLongTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.cdp.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.testng.DivisionByZeroLongTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PositiveMethodTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="calc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.epam.cdp.*" />
+          <option name="PATTERN" value="com.epam.cdp.testng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.epam.cdp" />
-      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.PositiveMethodTest" />
+      <option name="PACKAGE_NAME" value="com.epam.cdp.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.testng.PositiveMethodTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -167,6 +160,41 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.epam.cdp" />
       <option name="MAIN_CLASS_NAME" value="com.epam.cdp.PositiveMethodTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveMethodTest.testPositiveValue" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.cdp.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.testng.PositiveMethodTest" />
+      <option name="METHOD_NAME" value="testPositiveValue" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="calc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.cdp.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.cdp.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.cdp.testng.PowerTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -176,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="TestNG.C:/git/calc/src/resources/testng.xml" />
-        <item itemvalue="JUnit.TangentTestJunit" />
-        <item itemvalue="JUnit.SummationLongTestJunit.summarizeLongJunit" />
-        <item itemvalue="JUnit.SubstractionLongTestJunit.substractLongJunit" />
+        <item itemvalue="TestNG.PositiveMethodTest" />
+        <item itemvalue="TestNG.PowerTest" />
+        <item itemvalue="TestNG.DivisionByZeroLongTest" />
+        <item itemvalue="TestNG.PositiveMethodTest.testPositiveValue" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +230,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

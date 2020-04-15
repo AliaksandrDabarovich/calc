@@ -4,12 +4,11 @@
     <test verbose="2" preserve-order="true" name="Test1">
         <groups>
             <run>
-<!--                <exclude name="excludeGroup"/>-->
+                <!--                <exclude name="excludeGroup"/>-->
             </run>
         </groups>
         <packages>
             <package name="com.epam.cdp.testng"></package>
         </packages>
-
     </test>
 </suite>
